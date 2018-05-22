@@ -1,0 +1,15 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP5\GridViewASP\bin\GridViewASP.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP5\GridViewASP\bin\GridViewASP.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP5\GridViewASP\obj\Debug\GridViewASP.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP5\GridViewASP\obj\Debug\GridViewASP.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP5\GridViewASP\bin\GridViewASP.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP5\GridViewASP\bin\GridViewASP.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP5\GridViewASP\obj\Debug\GridViewASP5.csprojResolveAssemblyReference.cache
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP5\GridViewASP\obj\Debug\GridViewASP.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP5\GridViewASP\obj\Debug\GridViewASP.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP5\GridViewASP\bin\GridViewASP.dll.config
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP5\GridViewASP\bin\GridViewASP.dll
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP5\GridViewASP\bin\GridViewASP.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP5\GridViewASP\obj\Debug\GridViewASP5.csprojResolveAssemblyReference.cache
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP5\GridViewASP\obj\Debug\GridViewASP.dll
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP5\GridViewASP\obj\Debug\GridViewASP.pdb

@@ -1,0 +1,4 @@
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\GridViewASP3\GridViewASP\bin\GridViewASP.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\GridViewASP3\GridViewASP\bin\GridViewASP.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\GridViewASP3\GridViewASP\obj\Debug\GridViewASP.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\GridViewASP3\GridViewASP\obj\Debug\GridViewASP.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yurii\Documents\Visual Studio 2012\Projects\ASP.NET\RepeaterASP_1\RepeaterASP_1\bin\RepeaterASP_1.dll
+C:\Users\Yurii\Documents\Visual Studio 2012\Projects\ASP.NET\RepeaterASP_1\RepeaterASP_1\bin\RepeaterASP_1.pdb
+C:\Users\Yurii\Documents\Visual Studio 2012\Projects\ASP.NET\RepeaterASP_1\RepeaterASP_1\obj\Debug\RepeaterASP_1.csprojResolveAssemblyReference.cache
+C:\Users\Yurii\Documents\Visual Studio 2012\Projects\ASP.NET\RepeaterASP_1\RepeaterASP_1\obj\Debug\RepeaterASP_1.dll
+C:\Users\Yurii\Documents\Visual Studio 2012\Projects\ASP.NET\RepeaterASP_1\RepeaterASP_1\obj\Debug\RepeaterASP_1.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_1\RepeaterASP_1\bin\RepeaterASP_1.dll.config
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_1\RepeaterASP_1\bin\RepeaterASP_1.dll
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_1\RepeaterASP_1\bin\RepeaterASP_1.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_1\RepeaterASP_1\obj\Debug\RepeaterASP_1.csprojResolveAssemblyReference.cache
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_1\RepeaterASP_1\obj\Debug\RepeaterASP_1.dll
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_1\RepeaterASP_1\obj\Debug\RepeaterASP_1.pdb

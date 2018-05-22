@@ -1,0 +1,18 @@
+USE [TestDb]
+GO
+
+/****** Object:  Table [dbo].[Test_table_1]    Script Date: 03.07.2016 9:22:03 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Test_table_3](
+	[id] [int] NULL,
+	[first_name] [nvarchar](25) NULL,
+	[last_name] [nvarchar](25) NULL,
+	[birth_date] [date] NULL
+) ON [PRIMARY]
+
+GO

@@ -1,0 +1,16 @@
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\RepeaterASP_3\RepeaterASP_3\bin\RepeaterASP_3.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\RepeaterASP_3\RepeaterASP_3\bin\RepeaterASP_3.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\bin\RepeaterASP_3.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\bin\RepeaterASP_3.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.csprojResolveAssemblyReference.cache
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\bin\RepeaterASP_3.dll.config
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\bin\RepeaterASP_3.dll
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\bin\RepeaterASP_3.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.csprojResolveAssemblyReference.cache
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.dll
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_3\RepeaterASP_3\obj\Debug\RepeaterASP_3.pdb

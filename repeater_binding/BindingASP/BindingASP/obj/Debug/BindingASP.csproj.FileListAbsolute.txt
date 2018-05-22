@@ -1,0 +1,11 @@
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\BindingASP\BindingASP\bin\BindingASP.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\BindingASP\BindingASP\bin\BindingASP.pdb
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\BindingASP\BindingASP\obj\Debug\BindingASP.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\BindingASP\BindingASP\obj\Debug\BindingASP.dll
+C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\ASP\WebApp\Test\BindingASP\BindingASP\obj\Debug\BindingASP.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\2\BindingASP\BindingASP\bin\BindingASP.dll.config
+C:\Users\student\tyaa\C#\ASP\Examples\2\BindingASP\BindingASP\bin\BindingASP.dll
+C:\Users\student\tyaa\C#\ASP\Examples\2\BindingASP\BindingASP\bin\BindingASP.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\2\BindingASP\BindingASP\obj\Debug\BindingASP.csprojResolveAssemblyReference.cache
+C:\Users\student\tyaa\C#\ASP\Examples\2\BindingASP\BindingASP\obj\Debug\BindingASP.dll
+C:\Users\student\tyaa\C#\ASP\Examples\2\BindingASP\BindingASP\obj\Debug\BindingASP.pdb

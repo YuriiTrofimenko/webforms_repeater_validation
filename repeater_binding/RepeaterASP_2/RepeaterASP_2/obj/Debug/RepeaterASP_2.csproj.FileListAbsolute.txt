@@ -1,0 +1,11 @@
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\bin\RepeaterASP_2.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\bin\RepeaterASP_2.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\obj\Debug\RepeaterASP_2.csprojResolveAssemblyReference.cache
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\obj\Debug\RepeaterASP_2.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\obj\Debug\RepeaterASP_2.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\bin\RepeaterASP_2.dll.config
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\bin\RepeaterASP_2.dll
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\bin\RepeaterASP_2.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\obj\Debug\RepeaterASP_2.csprojResolveAssemblyReference.cache
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\obj\Debug\RepeaterASP_2.dll
+C:\Users\student\tyaa\C#\ASP\Examples\2\RepeaterASP_2\RepeaterASP_2\obj\Debug\RepeaterASP_2.pdb

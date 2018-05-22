@@ -1,0 +1,16 @@
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP6Done\GridViewASP\bin\GridViewASP.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP6Done\GridViewASP\bin\GridViewASP.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP6Done.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\ASP.NET\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\bin\GridViewASP.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\bin\GridViewASP.pdb
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP6Done.csprojResolveAssemblyReference.cache
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP.dll
+D:\newLibrary(since 20.04.2016)\IT\appDev\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\bin\GridViewASP.dll.config
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\bin\GridViewASP.dll
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\bin\GridViewASP.pdb
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP6Done.csprojResolveAssemblyReference.cache
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP.dll
+C:\Users\student\tyaa\C#\ASP\Examples\3\GridViewASP6Done\GridViewASP\obj\Debug\GridViewASP.pdb
